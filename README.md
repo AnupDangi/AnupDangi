@@ -1,24 +1,19 @@
-
 ## 🚀 About Me
-I'm a 2nd year VTU university student and enrolled in BTech AIML.Though i am interested in many domains in Tech.I am exploring and making projects in many Stack ...
+I am a 2nd year student at VTU University, pursuing a BTech in AI and Machine Learning. While I have a keen interest in various domains of technology, I am currently exploring and working on projects in different stacks.
 
+## Other Common GitHub Profile Sections
+👩‍💻 Currently learning Data Structures and Algorithms with Java.
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently learning DSA with Java..
+👩‍💻 Currently learning MERN Stack.
 
-👩‍💻 I'm currently learning MERN Stack...
+Every day, I solve LeetCode problems and upload them to my repositories.
 
-Everyday I solve Leetcode problems and will be uploading in my repositries.
+⚡️ Fun fact: I am a certified practitioner of NLP (Neuro-Linguistic Programming) and Numerology. I am interested in various domains of life, ranging from human cognition to AI advancements.
 
-⚡️ Fun fact: I am a certified NLP(Neuro Linguistic Programming)practitioner and Numerology. I am interest in many domains of life such as human congnitive to AI advancement.
-
-
-    
 ## 🛠 Skills
-C,Java,PythonHTML CSS, Javascript,SQL,MongoDb
+C, Java, Python, HTML, CSS, JavaScript, SQL, MongoDB
 
-
-
+## 🔗
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-dangi/)
 
