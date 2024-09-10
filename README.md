@@ -2,7 +2,7 @@
 I am a 2nd year student at VTU University, pursuing a BTech in AI and Machine Learning. While I have a keen interest in various domains of technology, I am currently exploring and working on projects in different stacks.
 
 ## Working On
-👩‍💻 Currently learning Data Structures and Algorithms inJava.
+👩‍💻 Currently learning Data Structures and Algorithms in Java.
 
 👩‍💻 Currently learning MERN Stack.
 
