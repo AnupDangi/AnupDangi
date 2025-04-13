@@ -6,8 +6,8 @@ I am a 3rd year student at **CMR Institute of Technology**, pursuing a BTech in 
 
 ## 💻 Currently Working On
 
-- 👩‍💻 **Data Structures and Algorithms in Java**
-- 👩‍💻 **MERN Stack**
+- 👩‍💻 **GEN AI**
+- 👩‍💻 **MERN Stack X Full Stack**
 - ⚡️ *Fun fact:* I am a certified practitioner of NLP (Neuro-Linguistic Programming) and Numerology. I enjoy exploring subjects that range from human cognition to AI advancements.
 
 ---
