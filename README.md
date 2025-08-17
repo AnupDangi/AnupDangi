@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I am a 3rd year student at **CMR Institute of Technology**, pursuing a BTech in **AI and Machine Learning**. I have a keen interest in various domains of technology and am currently exploring projects related to AI, web development, and data science.
+I am a 4th year student at **CMR Institute of Technology**, pursuing a BTech in **AI and Machine Learning**. I have a keen interest in various domains of technology and am currently exploring projects related to AI, web development, and data science.
 
 ---
 
