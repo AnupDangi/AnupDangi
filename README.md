@@ -1,16 +1,22 @@
 ## 🚀 About Me
 
 I’m a **4th-year B.Tech student** at **CMR Institute of Technology**, specializing in **Artificial Intelligence and Machine Learning**.  
-I’m passionate about solving real-world problems through **AI, web development, and data science** — building systems that are not only intelligent but also intuitive.
+I’m passionate about building intelligent systems and solving real-world problems through **AI**, **web development**, and **data science**.
 
-⚡ *Fun fact:* I’m a certified practitioner of **NLP (Neuro-Linguistic Programming)** and **Numerology**, with a deep interest in how **human cognition** aligns with **artificial intelligence**.
+⚡ *Fun fact:* I’m a certified practitioner of **NLP (Neuro-Linguistic Programming)** and **Numerology**, blending my interest in **human cognition** with the world of **artificial intelligence**.
 
+---
+## 💻 Currently Learning
+- ML,DL,NLP,LLMS Core to know how to build and fine tune them
+- Devops
+- AI Agents
+- Full Stack Projects
 ---
 
 ## 💻 Currently Working On
 
 🎯 **StudyMate — An All-in-One Workspace for Students**  
-Building an AI-powered collaborative platform that integrates learning, productivity, and peer interaction into a single ecosystem.
+An AI-powered collaborative platform designed to bring **learning, productivity, and peer interaction** together — enabling students to **connect, learn, and grow** in one ecosystem.
 
 ---
 
@@ -19,6 +25,7 @@ Building an AI-powered collaborative platform that integrates learning, producti
 <div align="center">
 
 ### 💻 Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,6 +39,11 @@ Building an AI-powered collaborative platform that integrates learning, producti
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%2300C853?style=for-the-badge&logo=graph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-%233B82F6?style=for-the-badge&logo=smithsonian&logoColor=white)
+![Google AI SDK](https://img.shields.io/badge/Google%20AI%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%238A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -80,4 +92,6 @@ Building an AI-powered collaborative platform that integrates learning, producti
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AnupDangi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnupDangi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
