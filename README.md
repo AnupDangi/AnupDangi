@@ -6,7 +6,7 @@ I’m passionate about building intelligent systems and solving real-world probl
 ⚡ *Fun fact:* I’m a certified practitioner of **NLP (Neuro-Linguistic Programming)** and **Numerology**, blending my interest in **human cognition** with the world of **artificial intelligence**.
 
 ---
-## 💻 Currently Learning
+## 🎯 Currently Learning
 - ML,DL,NLP,LLMS Core to know how to build and fine tune them
 - Devops
 - AI Agents
