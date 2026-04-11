@@ -16,7 +16,8 @@ I’m passionate about building intelligent systems and solving real-world probl
 ---
 
 ## 💻 Currently Working On
-Checkout for beta waitlist by end of June: https://www.anvaya.space/
+- Checkout for beta waitlist by end of June: https://www.anvaya.space/
+
 🎯 **Anvaya** — AI Powered Collaborative Study and Research Platform for Students and Researchers.  
 An AI-powered collaborative platform designed to bring **learning, productivity, and peer interaction** together — enabling students to **connect, learn, and grow** in one ecosystem.
 
