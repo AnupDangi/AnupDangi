@@ -9,9 +9,8 @@ I’m passionate about building intelligent systems and solving real-world probl
 
 ---
 ## 🎯 Currently Learning
-- ML,DL,NLP,LLMS Core to know how to build and fine tune them
-- Devops
-- AI Agents
+- LLMS Core to know how to build ,finetune and MOE models
+- Agentic AI
 - Full Stack Projects
 ---
 
