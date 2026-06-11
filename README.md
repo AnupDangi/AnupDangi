@@ -2,7 +2,7 @@
 
 ## Portfolio: https://www.anupdangi.com.np/
 
-I’m a ** AI Graduate building and breaking things to shape future of education** .  
+I’m a ** AI Graduate building and breaking things to shape future of education ** .  
 I’m passionate about building intelligent systems and solving real-world problems through **AI**, **web development**, and **data science**.
 
 ⚡ *Fun fact:* I’m a certified practitioner of **NLP (Neuro-Linguistic Programming)** and **Numerology**, blending my interest in **human cognition** with the world of **artificial intelligence**.
